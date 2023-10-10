@@ -1,4 +1,3 @@
 # DeveloperPortfolio
 
-npm install
-npm run dev
+npm install, then npm run dev

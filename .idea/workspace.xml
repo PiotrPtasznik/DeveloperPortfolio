@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="256368b7-25fa-4220-a47f-54f9792f2284" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.002_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.023_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.024_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_0_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_10_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_11_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_12_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_13_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_14_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_15_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_16_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_17_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_18_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_18_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_19_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_1_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_20_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_21_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_22_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_23_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_24_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_24_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_25_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_26_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_27_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_27_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_28_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_29_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_2_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_30_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_31_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_32_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_33_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_34_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_35_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_36_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_39_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_3_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_40_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_4_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_4_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_5_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_6_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_7_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_8_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_9_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_9_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material.074_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Material_metallicRoughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/desktop_pc/textures/Tasten_2_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/planet/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/planet/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/planet/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/planet/textures/Clouds_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/planet/textures/Planet_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/backend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/adamed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/meta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/shopify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/starbucks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/tauceti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/company/tesla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/flashcards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/herobg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/docker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/mongodb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/reactjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/salesforce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/tailwind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tech/threejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webdev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/workinprogress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Experience.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tech.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Works.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/canvas/Ball.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/canvas/Computers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/canvas/Earth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/canvas/Stars.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/canvas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/SectionWrapper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/motion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WZyjd1MoG9KV4nHXIinEmfT7dI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/DeveloperPortfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\DeveloperPortfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="256368b7-25fa-4220-a47f-54f9792f2284" name="Changes" comment="" />
+      <created>1696954535986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696954535986</updated>
+      <workItem from="1696954536996" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
